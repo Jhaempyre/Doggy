@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Doggy</string>
+    <string name ="us_0">0</string>
+    <string name ="us_1">1</string>
+    <string name ="us_2">2</string>
+    <string name ="us_3">3</string>
+    <string name ="us_4">4</string>
+    <string name ="us_5">5</string>
+    <string name ="us_6">6</string>
+    <string name ="us_7">7</string>
+    <string name ="us_8">8</string>
+    <string name ="us_9">9</string>
+    <string name ="us_10">10</string>
+    <string name ="us_11">11</string>
+    <string name ="m1">jan</string>
+    <string name ="m2">feb</string>
+    <string name ="m3">mar</string>
+    <string name ="m4">apr</string>
+    <string name ="m5">may</string>
+    <string name ="m6">june</string>
+    <string name ="m7">jul</string>
+    <string name ="m8">aug</string>
+    <string name ="m9">sep</string>
+    <string name ="m10">oct</string>
+    <string name ="m11">nov</string>
+    <string name ="m12">dec</string>
+
+
+
+</resources>
